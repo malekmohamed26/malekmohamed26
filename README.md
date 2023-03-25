@@ -10,7 +10,7 @@
     and my name is <span style="color:#02B3E4">Malek</span>, you can contact me there 👇🏻 
 </h2>
 <div id="badges">
-<a href="discord.com/users/589062265827753984">
+<a href="https://www.discord.com/users/589062265827753984">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/malek-mohamed26/">
